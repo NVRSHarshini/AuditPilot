@@ -1,0 +1,6 @@
+{
+  "name": "AuditPilot",
+  "description": "AI-powered compliance audit agent that parses policy documents and ISO 27001 checklists to detect compliance gaps and assess risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
